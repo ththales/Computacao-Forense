@@ -1,3 +1,4 @@
+# Computação Forense
 # Softwares
 - **QuickHash-GUI**: Analisa e compara hashes de arquivos, diretórios
 - **AccessData FTK Imager**: Permite fazer cópias de imagens de dispositivos para modificar somente elas, mas manter o dispositivo original intacto
