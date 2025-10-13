@@ -43,7 +43,7 @@ Dicas de sites: https://www.cs.du.edu/~snarayan/crypt/vigenere.html
 
 ## Criptografias inquebráveis
 Como falei, há criptografias que não são quebráveis e só seria possível por bruteforce, mas é possível tentar decifrar uma mensagem criptografada por tentativa e erro ao acertar qual critografia foi usada na mensagem
-Dica de site: crypo.pw/encryptors ou http://qbarbe.free.fr/crypto/ (alternativa do crypo) ou https://cryptii.com
+Dica de site: https://crypo.pw/encryptors ou http://qbarbe.free.fr/crypto/ (alternativa do crypo) ou https://cryptii.com
 
 - Bruteforce
 O bruteforce é útil quando queremos quebrar senhas, mensagens criptografadas usando Hashes como SHA-256, MD5 etc, pois exige tempo e muitas das vezes não é viável
