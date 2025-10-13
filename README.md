@@ -18,6 +18,7 @@
 - **OpenPuff**: Esteganografia em arquivos
 - **QuickStego**: Esteganografia em arquivos
 - **SilentEye**: Esteganografia em arquivos
+- **ExifTool**: Leitura e extração de metadados de arquivos
 
 ---
 
