@@ -2,7 +2,6 @@
 
 # Sumário
 
-- [Computação Forense — Visão Geral](#computação-forense-–-visão-geral)
 - [1. Ferramentas](#1-ferramentas)
   - [1.2 Softwares](#12-softwares)
     - [QuickHash-GUI](#quickhash-gui)
