@@ -23,6 +23,13 @@
     - [QuickStego](#quickstego)
     - [SilentEye](#silenteye)
     - [ExifTool](#exiftool)
+    - [Crunch](#crunch)
+    - [HashCat](#hashcat)
+    - [WordListCompiler](#wordlistcompiler)
+    - [PDF2TextPilot](#pdf2textpilot)
+    - [Cain & Abel](#cain--abel)
+    - [PasswareKit](#passwarekit)
+    - [Copiadora 666](#copiadora666)
   - [1.3 Ferramentas Online](#13-ferramentas-online)
     - [1.3.1 Hashes e Criptoanálise](#131-hashes-e-criptoanálise)
     - [1.3.2 Cifras e Criptografia](#132-cifras-e-criptografia)
@@ -65,7 +72,6 @@
 - **WinDirStat**: Busca arquivos no disco rígido por tipo, tamanho, etc.
 - **Total Commander**: Realiza buscas automatizadas de diretórios e pastas.
 - **OSForensics**: Multiferramenta para análise forense.
-- **Copiadora 666**: Copia arquivos para outro diretório.
 - **WinAudit**: Coleta informações sobre hardware e periféricos do sistema.
 - **NirLauncher**: Pacote forense com diversas ferramentas úteis.
 - **RegShot**: Captura o estado atual do registro e permite comparar dois estados, identificando diferenças.
@@ -78,6 +84,14 @@
 - **QuickStego**: Esteganografia em arquivos.
 - **SilentEye**: Esteganografia em arquivos.
 - **ExifTool**: Leitura e extração de metadados de arquivos.
+- **Crunch**: Gerador de wordlists
+- **HashCat**: Quebra de hashes usando wordlists
+- **WordListCompiler**: Transforma um arquivo .txt em wordlist
+- **PDF2TextPilot**: Converte PDF em arquivo .txt
+- **Cain & Abel**: Cracker de senhas locais
+- **PasswareKit**: Cracker de senhas de arquivos específicos
+- **Ophcrack**: Cracker de senhas locais baseado em Rainbow tables
+- **Copiadora 666**: Copia arquivos para outro diretório.
 
 ## 1.3 Ferramentas Online
 ### 1.3.1 Hashes e Criptoanálise
