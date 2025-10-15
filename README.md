@@ -13,7 +13,6 @@
     - [WinAudit](#winaudit)
     - [NirLauncher](#nirlauncher)
     - [RegShot](#regshot)
-    - [Disk Drill](#diskdrill)
     - [Autopsy](#autopsy)
     - [Cryptool1](#cryptool1)
     - [HTTrack](#httrack)
@@ -27,8 +26,10 @@
     - [HashCat](#hashcat)
     - [WordListCompiler](#wordlistcompiler)
     - [PDF2TextPilot](#pdf2textpilot)
-    - [Cain & Abel](#cain--abel)
+    - [Cain & Abel](#cain-abel)
     - [PasswareKit](#passwarekit)
+    - [Ophcrack](#ophcrack)
+    - [Emsisoft Emergency Kit](#emsisoft-emergency-kit)
     - [Copiadora 666](#copiadora666)
   - [1.3 Ferramentas Online](#13-ferramentas-online)
     - [1.3.1 Hashes e Criptoanálise](#131-hashes-e-criptoanálise)
@@ -92,6 +93,7 @@
 - **Cain & Abel**: Cracker de senhas locais
 - **PasswareKit**: Cracker de senhas de arquivos específicos
 - **Ophcrack**: Cracker de senhas locais baseado em Rainbow tables
+- **Emsisoft Emergency Kit**: Scanner portable de arquivos, processos, chaves de registro e histórico de ameaças conhecidas a fim de identificar possíveis softwares maliciosos.
 - **Copiadora 666**: Copia arquivos para outro diretório.
 
 ## 1.3 Ferramentas Online
