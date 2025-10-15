@@ -14,6 +14,7 @@
     - [WinAudit](#winaudit)
     - [NirLauncher](#nirlauncher)
     - [RegShot](#regshot)
+    - [Disk Drill](#diskdrill)
     - [Autopsy](#autopsy)
     - [Cryptool1](#cryptool1)
     - [HTTrack](#httrack)
@@ -75,7 +76,8 @@
 - **WinAudit**: Coleta informações sobre hardware e periféricos do sistema.
 - **NirLauncher**: Pacote forense com diversas ferramentas úteis.
 - **RegShot**: Captura o estado atual do registro e permite comparar dois estados, identificando diferenças.
-- **Autopsy**: Recuperação de arquivos deletados.
+- **Disk Drill**: Recuperação de arquivos deletados
+- **Autopsy**: Análise forense de arquivos, diretórios e dispositiovs de armazenamento.
 - **Cryptool1**: Decodificação de cifras de César e Vigenere usando bruteforce.
 - **HTTrack**: Baixa websites e os armazena localmente.
 - **DIE-engine**: Descompilação completa de programas.
