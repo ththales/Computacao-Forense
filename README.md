@@ -2,7 +2,8 @@
 
 ---
 
-## Softwares
+# 1. Ferramentas
+## 1.2 Softwares
 
 - **QuickHash-GUI**: Analisa e compara hashes de arquivos e diretórios.
 - **AccessData FTK Imager**: Permite criar cópias de imagens de dispositivos, preservando o dispositivo original.
@@ -24,14 +25,76 @@
 - **SilentEye**: Esteganografia em arquivos.
 - **ExifTool**: Leitura e extração de metadados de arquivos.
 
+## 1.3 Ferramentas Online
+### 1.3.1 Hashes e Criptoanálise
+- [CrackStation](https://crackstation.net): Quebra de hashes MD5, SHA1, SHA256 etc., usando grandes tabelas de lookup.
+- [Hashes.com](https://hashes.com/): Identifica e descriptografa hashes; pesquisa colaborativa e upload para análise.
+- [OnlineHashCrack](https://www.onlinehashcrack.com): Serviço de recuperação de senhas via GPU/cluster (WPA, Office, ZIP etc.).
+- [MD5Online](https://www.md5online.org): Decodificador e gerador de hashes MD5.
+- [dCode Hash Identifier](https://www.dcode.fr/hash-identifier): Identificação automática de tipos de hash.
+- [CyberChef](https://gchq.github.io/CyberChef/): Laboratório online para codificação, decodificação, hashing, compressão, criptografia, esteganografia e mais.
+- [Base64 Decode](https://www.base64decode.org/): Decodificador e codificador Base64.
+- [String Functions](https://www.string-functions.com/): Conversões, transformações e análises de texto codificado.
+
+### 1.3.2 Cifras e Criptografia
+- [dCode.fr](https://www.dcode.fr): Portal de criptologia, decodificação, cifras clássicas, conversões entre bases, análise de frequência.
+- [Cryptii](https://cryptii.com): Interface modular para decodificação de textos em diversas bases e cifras.
+- [Crypo](https://crypo.pw/encryptors): Códigos de substituição e cifras simples com decodificador automático.
+- [PlanetCalc](https://planetcalc.com): Ferramentas matemáticas e de criptografia (Vigenère, César, etc).
+- [Boxentriq Code-Breaking Tools](https://www.boxentriq.com/code-breaking): Decodificadores automáticos e análises de frequência.
+- [Cipher Identifier](https://www.guballa.de/substitution-solver): Identifica e resolve cifras de substituição por frequência e padrões.
+
+### 1.3.3 Metadados e Análise de Arquivos
+- [ExifTool Online / exif.tools](https://exif.tools/): Leitura de metadados EXIF/IPTC/XMP.
+- [Metadata2Go](https://www.metadata2go.com/): Extração de metadados de fotos, vídeos, PDFs e áudios.
+- [FotoForensics](https://fotoforensics.com/): Error Level Analysis (ELA) para detectar manipulação de imagens.
+- [Forensically](https://29a.ch/photo-forensics/): Conjunto completo de ferramentas forenses para imagens.
+- [Jeffrey’s Image Metadata Viewer](https://exif.regex.info/exif.cgi): Leitor detalhado de EXIF.
+
+### 1.3.4 Esteganografia Online
+- [StegOnline](https://stegonline.georgeom.net/): Análise bit a bit de imagens e extração de mensagens ocultas (LSB, camadas, offset).
+- [Aperi'Solve](https://www.aperisolve.com): Detecção avançada de esteganografia em imagens.
+- [Mobilefish Steganography](https://www.mobilefish.com/services/steganography/steganography.php): Ocultar e recuperar texto em imagens BMP/PNG.
+
+### 1.3.5 Busca Reversa e OSINT
+- [TinEye](https://tineye.com): Busca reversa por imagem.
+- [Yandex Images](https://yandex.com/images/): Busca reversa alternativa para imagens.
+- [Bing Visual Search](https://www.bing.com/visualsearch): Busca reversa de imagens com resultados diferentes.
+- [Google Advanced Search](https://www.google.com/advanced_search): Busca avançada com filtros por idioma, domínio, data etc.
+- [Whois Lookup (ICANN)](https://lookup.icann.org/en): Identifica proprietário e registro de domínios.
+- [VirusTotal](https://www.virustotal.com): Análise de arquivos e URLs contra malware.
+- [URLVoid](https://www.urlvoid.com/): Verificação de reputação de domínios e blacklist.
+- [HackerTarget Tools](https://hackertarget.com/ip-tools/): Conjunto de ferramentas OSINT para IP, domínio e subdomínios.
+
+### 1.3.6 Análise de Arquivos e Binários
+- [HexEd.it](https://hexed.it/): Editor hexadecimal online.
+- [File Signatures (filesignatures.net)](https://www.filesignatures.net/): Identificação de arquivos via magic numbers.
+- [Strings Online](https://emn178.github.io/online-tools/strings.html): Extrai strings ASCII/Unicode de binários.
+- [Hybrid Analysis](https://www.hybrid-analysis.com): Sandbox para análise dinâmica de arquivos e scripts.
+- [Any.Run](https://app.any.run/): Sandbox interativo para executar amostras maliciosas.
+- [Intezer Analyze](https://analyze.intezer.com/): Análise de DNA de código e detecção de malware.
+
+### 1.3.7 Redes e Tráfego
+- [PacketTotal](https://packettotal.com): Upload e análise de arquivos `.pcap`.
+- [Wireshark Sample Captures](https://wiki.wireshark.org/SampleCaptures): Repositório de capturas de tráfego para estudo.
+- [DNSDumpster](https://dnsdumpster.com): Mapeamento de subdomínios e infraestrutura de um domínio.
+- [Shodan](https://www.shodan.io): Busca de dispositivos conectados à internet.
+- [MXToolbox](https://mxtoolbox.com): Ferramentas de diagnóstico de DNS, IPs e servidores.
+
+### 1.3.8 Utilitários Gerais
+- [Unit Conversion](https://www.unit-conversion.info): Conversões de unidades e bases numéricas.
+- [Regex101](https://regex101.com): Teste e depuração de expressões regulares.
+- [JSONLint](https://jsonlint.com): Validação e formatação de JSONs.
+- [CodeBeautify](https://codebeautify.org): Conversão, formatação e decodificação rápida de dados.
+
 ---
 
-# Criptoanálise
+# 2. Criptoanálise
 
 Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografia foi utilizada.  
 **Observação:** algumas criptografias, como SHA-256, não são viáveis de quebrar com bruteforce mesmo com hardware moderno.
 
-### Tabela ASCII
+### 2.1 Tabela ASCII
 
 #### Bases numéricas
 
@@ -47,7 +110,7 @@ Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografi
 
 ---
 
-### Cifras de César e Vigenere
+### 2.2 Cifras de César e Vigenere
 
 - **Cifra de César**: Rotaciona o texto N vezes para a direita ou esquerda.  
   *Sites de referência:* [PlanetCalc](https://planetcalc.com/8572/), [dCode](https://www.dcode.fr/caesar-cipher)
@@ -57,7 +120,7 @@ Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografi
 
 ---
 
-### Criptografias inquebráveis
+### 2.3 Criptografias inquebráveis
 
 - Algumas criptografias só podem ser quebradas via bruteforce, o que muitas vezes não é viável.  
 - É possível tentar decifrar mensagens por tentativa e erro, descobrindo a criptografia usada.  
@@ -66,22 +129,30 @@ Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografi
   - [QBarbe](http://qbarbe.free.fr/crypto/)  
   - [Cryptii](https://cryptii.com)
 
+
+#### 2.3.1 Bruteforce, dicionários e rainbow tables
+##### Bruteforce
+- Um ataque por força bruta tenta descobrir uma senha testando todas as combinações possíveis de caracteres até encontrar a que gera o mesmo hash ou corresponde ao segredo. É um método puramente de tentativa e erro, sem usar conhecimento prévio sobre padrões de senhas.
+- O número de combinações cresce exponencialmente com o comprimento e o alfabeto usado. Senhas maiores e que misturam conjuntos amplos de caracteres (minúsculas, maiúsculas, números, símbolos) aumentam drasticamente a complexidade de busca, tornando inviável testar todas as combinações mesmo com hardware muito rápido.
+- Além disso, funções de hashing lentas (p. ex. bcrypt, scrypt, Argon2) reduzem drasticamente a taxa de tentativas por segundo, ampliando ainda mais o tempo necessário para um brute-force bem-sucedido.
+
+##### Dicionários
+- Um ataque de dicionário tenta senhas usando listas de palavras e combinações possíveis, as chamadas wordlists, em vez de gerar todas as combinações possíveis. As listas incluem palavras do idioma, palavras mais comuns (ex: senha123, P@ssw0rd), variações leet (3→e, 4→a), frases comuns, nomes próprios e senhas vazadas.
+- Em vez de percorrer todo o espaço combinatório, sem "garantias" por assim dizer, usamos um arquivo chamado “dicionário” com entradas ordenadas por probabilidade e testa cada entrada contra o hash ou sistema.
+- Normalmente o ataque inclui etapas de transformação (mutações): capitalização, acréscimo de números, substituições e concatenações, para cobrir variações humanas comuns.
+
+##### Rainbow Tables
+- Rainbow tables são tabelas pré-computadas que mapeiam hashes para possíveis senhas, através de pontos intermediários em cadeias reduzidas, permitindo recuperar senhas a partir de hashes sem ter que recalcular o hash para cada tentativa individual em tempo real.
+- Em vez de armazenar todas as combinações de senha → hash, gera-se cadeias reduzidas (hash → redução → novo hash → ...) e armazena-se somente o início e o fim da cadeia. Ao procurar um hash alvo, o atacante aplica reduções e buscas nas tabelas para localizar qual cadeia pode conter a senha original, e a partir daí reconstrói a cadeia para encontrar a senha correspondente. Isso economiza espaço em troca de tempo e complexidade de reconstrução.
+
 ---
 
-### Bruteforce
-
-- Útil para quebrar senhas ou mensagens criptografadas com hashes como SHA-256 e MD5.  
-- Exige tempo significativo e pode não ser viável na prática.  
-  *Site útil:* [CrackStation](https://crackstation.net)
-
----
-
-# Esteganografia
+# 3. Esteganografia
 
 **Definição:** Técnica de esconder mensagens e informações em arquivos convencionais.  
 Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
-## 1. Texto em imagem simples
+## 3.1 Texto em imagem simples
 
 - Forma mais simples e menos segura de esteganografia.
 - Passos:
@@ -95,12 +166,12 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
      ```
 - Limitações: qualquer pessoa pode abrir o arquivo em um editor hexadecimal e ler a mensagem.
 
-## 2. Metadados
+## 3.2 Metadados
 
 - Esconder informações nos detalhes do arquivo, como nome do álbum, artista, descrição, etc.
 - Método básico e pouco seguro.
 
-## 3. Programas específicos
+## 3.3 Programas específicos
 
 - Utilizar softwares dedicados aumenta segurança e complexidade.  
 - Exemplos:
@@ -110,7 +181,7 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 - **Dica:** use buscas por palavras-chave ou nomes de programas em diretórios para detectar sinais de esteganografia.
 
-## Sinais de uso de esteganografia
+## 3.4 Sinais de uso de esteganografia
 
 - Tamanhos incomuns de arquivos (ex.: imagens grandes podem indicar dados ocultos).  
 - Ruídos em áudios (pode revelar mensagens em espectrogramas).  
@@ -120,40 +191,40 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 ---
 
-# Busca reversa
+# 4. Busca reversa
 
 **Definição:** Técnica para coletar informações sobre um tema sem conhecimento prévio.  
 
-## Busca por imagem
+## 4.1 Busca por imagem
 
 - Passos:
   1. Abra um mecanismo de busca (ex.: Google).  
   2. Selecione “busca por imagem” e anexe a imagem.  
   3. Analise os resultados: nome, contexto, links, fóruns, etc.
 
-## Busca ao pé da letra
+## 4.2 Busca ao pé da letra
 
 - Retorna resultados que contêm exatamente os termos pesquisados.  
 - Para ativar no Google: Ferramentas → “Ao pé da letra”.
 
-## Busca por site específico
+## 4.3 Busca por site específico
 
 - Filtra resultados de um site específico:  
   ```text
   site:nome-do-site.domínio Termos para procurar
   ```
-## Busca avançada do Google
+## 4.4 Busca avançada do Google
 O próprio google nos permite buscar de forma mais avançada, com filtros, palavras-chave, idiomas etc, utilizando:
 - https://www.google.com/advanced_search
 
-## Busca por intervalos de tempo
+## 4.5 Busca por intervalos de tempo
 Outra forma interessante é ir buscando termos em determinados intervalos de tempo.
 Isso é útil para sabermos exatamente qual foi a primeira aparição de uma busca em um mecanismo.
 
-## Código fonte em publicações
+## 4.6 Código fonte em publicações
 Após buscar uma imagem e encontrar um site, pode ser útil buscar no código fonte da página da imagem encontrada e procurar por "date" que é justamente o termo referente à data da imagem
 
-## Ferramenta de busca
+## 4.7 Ferramenta de busca
 ### TinEye
 Dada uma imagem, o site permite fazer uma busca e escavar toda a web, verificar e rastrear imagens online.
 Além disso, é possível comparar imagem atual com a imagem real.
