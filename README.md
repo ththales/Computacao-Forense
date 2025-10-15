@@ -17,7 +17,6 @@
     - [Disk Drill](#disk-drill)
     - [Autopsy](#autopsy)
     - [Cryptool1](#cryptool1)
-    - [HTTrack](#httrack)
     - [DIE-engine](#die-engine)
     - [hashID / hash-identifier](#hashid--hash-identifier)
     - [OpenPuff](#openpuff)
@@ -82,7 +81,6 @@
 - **Disk Drill**: Recuperação de arquivos deletados de um dispositivo de armazenamento
 - **Autopsy**: Análise forense de arquivos, diretórios e dispositivos de armazenamento.
 - **Cryptool1**: Decodificação de cifras de César e Vigenere usando bruteforce.
-- **HTTrack**: Baixa websites e os armazena localmente.
 - **DIE-engine**: Descompilação completa de programas.
 - **hashID / hash-identifier**: Identifica tipos de hashes usados na criptografia de dados.
 - **OpenPuff**: Esteganografia em arquivos.
