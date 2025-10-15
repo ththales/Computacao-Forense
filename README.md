@@ -54,9 +54,6 @@
   - [4.5 Busca por intervalos de tempo](#45-busca-por-intervalos-de-tempo)
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
   - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
-- [Anexos / Comandos úteis / Exemplos práticos](#anexos--comandos-úteis--exemplos-práticos)
-- [Bibliografia e links úteis](#bibliografia-e-links-úteis)
-
 
 ---
 
