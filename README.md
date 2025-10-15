@@ -13,6 +13,8 @@
     - [WinAudit](#winaudit)
     - [NirLauncher](#nirlauncher)
     - [RegShot](#regshot)
+    - [Recuva](#recuva)
+    - [Disk Drill](#disk-drill)
     - [Autopsy](#autopsy)
     - [Cryptool1](#cryptool1)
     - [HTTrack](#httrack)
@@ -26,7 +28,7 @@
     - [HashCat](#hashcat)
     - [WordListCompiler](#wordlistcompiler)
     - [PDF2TextPilot](#pdf2textpilot)
-    - [Cain & Abel](#cain-abel)
+    - [Cain & Abel](#cain--abel)
     - [PasswareKit](#passwarekit)
     - [Ophcrack](#ophcrack)
     - [Emsisoft Emergency Kit](#emsisoft-emergency-kit)
@@ -76,8 +78,9 @@
 - **WinAudit**: Coleta informações sobre hardware e periféricos do sistema.
 - **NirLauncher**: Pacote forense com diversas ferramentas úteis.
 - **RegShot**: Captura o estado atual do registro e permite comparar dois estados, identificando diferenças.
-- **Disk Drill**: Recuperação de arquivos deletados
-- **Autopsy**: Análise forense de arquivos, diretórios e dispositiovs de armazenamento.
+- **Recuva**: Recuperação de arquivos deletados de um dispositivo de armazenamento
+- **Disk Drill**: Recuperação de arquivos deletados de um dispositivo de armazenamento
+- **Autopsy**: Análise forense de arquivos, diretórios e dispositivos de armazenamento.
 - **Cryptool1**: Decodificação de cifras de César e Vigenere usando bruteforce.
 - **HTTrack**: Baixa websites e os armazena localmente.
 - **DIE-engine**: Descompilação completa de programas.
