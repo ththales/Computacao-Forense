@@ -10,7 +10,6 @@
     - [WinDirStat](#windirstat)
     - [Total Commander](#total-commander)
     - [OSForensics](#osforensics)
-    - [Copiadora 666](#copiadora-666)
     - [WinAudit](#winaudit)
     - [NirLauncher](#nirlauncher)
     - [RegShot](#regshot)
