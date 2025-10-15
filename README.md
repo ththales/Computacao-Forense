@@ -173,7 +173,7 @@ Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografi
 #### Bases numéricas
 
 - **Binário para ASCII**: Mensagem codificada em binário pode ser traduzida para caracteres ASCII.  
-  *Dica:* `00101001 010010` → contém apenas 0s e 1s.
+  *Dica:* `00101001 01001010` → contém apenas 0s e 1s.
   
 - **Octal para ASCII**: Mensagem codificada em octal pode ser convertida para caracteres ASCII.  
   *Dica:* `150 157 154 134` → agrupadas por 3 caracteres, iniciando geralmente por 1.
