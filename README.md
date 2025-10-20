@@ -22,7 +22,7 @@
     - [OpenPuff](#openpuff)
     - [QuickStego](#quickstego)
     - [SilentEye](#silenteye)
-    - [MultiObfuscator)(#multiobfuscator)
+    - [MultiObfuscator](#multiobfuscator)
     - [ExifTool](#exiftool)
     - [Crunch](#crunch)
     - [HashCat](#hashcat)
