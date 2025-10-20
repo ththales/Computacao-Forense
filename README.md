@@ -22,6 +22,7 @@
     - [OpenPuff](#openpuff)
     - [QuickStego](#quickstego)
     - [SilentEye](#silenteye)
+    - [MultiObfuscator)(#multiobfuscator)
     - [ExifTool](#exiftool)
     - [Crunch](#crunch)
     - [HashCat](#hashcat)
@@ -86,6 +87,7 @@
 - **OpenPuff**: Esteganografia em arquivos.
 - **QuickStego**: Esteganografia em arquivos.
 - **SilentEye**: Esteganografia em arquivos.
+- **MultiObfuscator**: Corrompe e criptografa arquivos de forma que só serão recuperados ao inserir até 4 senhas no arquivo.
 - **ExifTool**: Leitura e extração de metadados de arquivos.
 - **Crunch**: Gerador de wordlists
 - **HashCat**: Quebra de hashes usando wordlists
