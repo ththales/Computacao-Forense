@@ -114,7 +114,8 @@
 ### 1.3.2 Cifras e Criptografia
 - [dCode.fr](https://www.dcode.fr): Portal de criptologia, decodificação, cifras clássicas, conversões entre bases, análise de frequência.
 - [Cryptii](https://cryptii.com): Interface modular para decodificação de textos em diversas bases e cifras.
-- [Crypo](http://qbarbe.free.fr/crypto/): Códigos de substituição e cifras simples com decodificador automático.
+- [Crypo (Alt 1)](https://s3curity.info/.external/crypo/): Códigos de substituição e cifras simples com decodificador automático.
+- [Crypo (Alt 2)](http://qbarbe.free.fr/crypto/): Códigos de substituição e cifras simples com decodificador automático.
 - [PlanetCalc](https://planetcalc.com): Ferramentas matemáticas e de criptografia (Vigenère, César, etc).
 - [Boxentriq Code-Breaking Tools](https://www.boxentriq.com/code-breaking): Decodificadores automáticos e análises de frequência.
 - [Cipher Identifier](https://www.guballa.de/substitution-solver): Identifica e resolve cifras de substituição por frequência e padrões.
