@@ -247,8 +247,9 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 ## 3.3 Spammimic
 - Permite esconder uma mensagem em um texto semelhante à um Spam ou chave PGP
+- Acesse o site em: [Spammimic](https://www.spammimic.com)
 
-## 3.3 Programas específicos
+## 3.4 Programas específicos
 
 - Utilizar softwares dedicados aumenta segurança e complexidade.  
 - Exemplos:
@@ -258,7 +259,7 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 - **Dica:** use buscas por palavras-chave ou nomes de programas em diretórios para detectar sinais de esteganografia.
 
-## 3.4 Sinais de uso de esteganografia
+## 3.5 Sinais de uso de esteganografia
 
 - Tamanhos incomuns de arquivos (ex.: imagens grandes podem indicar dados ocultos).  
 - Ruídos em áudios (pode revelar mensagens em espectrogramas).  
