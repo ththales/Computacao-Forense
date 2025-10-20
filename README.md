@@ -245,6 +245,9 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 - Esconder informações nos detalhes do arquivo, como nome do álbum, artista, descrição, etc.
 - Método básico e pouco seguro.
 
+## 3.3 Spammimic
+- Permite esconder uma mensagem em um texto semelhante à um Spam ou chave PGP
+
 ## 3.3 Programas específicos
 
 - Utilizar softwares dedicados aumenta segurança e complexidade.  
