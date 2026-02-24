@@ -318,6 +318,6 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
-# 5. Lab Forense
+# 6. Lab Forense
 Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
 - Link: https://github.com/ththales/LAB-FORENSE
