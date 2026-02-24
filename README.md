@@ -64,6 +64,7 @@
   - [4.5 Busca por intervalos de tempo](#45-busca-por-intervalos-de-tempo)
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
   - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
+- [5. Lab Forense](#5-lab-forense)
 
 ---
 
@@ -312,6 +313,6 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
-# 5. Lab Forense para praticar
+# 5. Lab Forense
 Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
 - Link: https://github.com/ththales/LAB-FORENSE
