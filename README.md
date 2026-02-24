@@ -318,6 +318,23 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
+# 5. Engenharia Reversa
+- Tambémm chamada descompilação, é o processo de extrair o máximo de informações do código-fonte de um programa compilado, seja através de strings, hexadecimais ou binários, mesmo sem obter total acesso ao código original.
+- Essa é uma prática extremamente recomendada pois auxilia na análise de possíveis malwares e funcionalidades ocultas ou maliciosas.
+- É necessário uma boa compreensão de linguagens como:
+  - Assembly (x86/x64/ARM)
+  - C/C++
+  - Python
+  - Java
+- Há diversos programas que permitem realizar tal feito, como:
+  - (DIE Engine): https://github.com/horsicq/DIE-engine
+  - (x64dbg): https://x64dbg.com
+  - (Ghidra): https://github.com/NationalSecurityAgency/ghidra
+  - (IDA): https://hex-rays.com/
+  - (Radare2): https://rada.re/n/
+
+---
+
 # 6. Lab Forense
 Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
 - Link: https://github.com/ththales/LAB-FORENSE
