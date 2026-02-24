@@ -309,3 +309,9 @@ Após buscar uma imagem e encontrar um site, pode ser útil buscar no código fo
 Dada uma imagem, o site permite fazer uma busca e escavar toda a web, verificar e rastrear imagens online.
 Além disso, é possível comparar imagem atual com a imagem real.
 - Link: https://tineye.com
+
+---
+
+# 5. Lab Forense para praticar
+Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
+- Link: https://github.com/ththales/LAB-FORENSE
