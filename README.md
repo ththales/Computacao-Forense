@@ -52,10 +52,11 @@
     - [2.3.1 Bruteforce, Dicionários e Rainbow Tables](#231-bruteforce-dicionários-e-rainbow-tables)
 - [3. Esteganografia](#3-esteganografia)
   - [3.1 Texto em imagem simples](#31-texto-em-imagem-simples)
-  - [3.2 Metadados](#32-metadados)
-  - [3.3 Spammimic](#spammimic)
-  - [3.4 Programas específicos](#33-programas-específicos)
-  - [3.5 Sinais de uso de esteganografia](#34-sinais-de-uso-de-esteganografia)
+  - [3.2 Alterar o tipo de extensão do arquivo](#32-alterar-o-tipo-de-extensão-do-arquivo)
+  - [3.3 Metadados](#32-metadados)
+  - [3.4 Spammimic](#spammimic)
+  - [3.5 Programas específicos](#33-programas-específicos)
+  - [3.6 Sinais de uso de esteganografia](#34-sinais-de-uso-de-esteganografia)
 - [4. Busca reversa](#4-busca-reversa)
   - [4.1 Busca por imagem](#41-busca-por-imagem)
   - [4.2 Busca ao pé da letra](#42-busca-ao-pé-da-letra)
@@ -230,7 +231,6 @@ Dada uma mensagem, analisamos padrões para identificar qual tipo de criptografi
 Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 ## 3.1 Texto em imagem simples
-
 - Forma mais simples e menos segura de esteganografia.
 - Passos:
   1. Abra o CMD e vá até o diretório dos arquivos:  
@@ -243,16 +243,21 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
      ```
 - Limitações: qualquer pessoa pode abrir o arquivo em um editor hexadecimal e ler a mensagem.
 
-## 3.2 Metadados
+## 3.2 Alterar o tipo de extensão do arquivo
+- Assim como a anterior, extremamente fácil de descobrir
+- Consiste em alterar a extensão de um arquivo
+- Ex: Uma imagem originalmente é de extensão .png e você altera para algo como .reg, .bat ou qualquer outra diferente
+
+## 3.3 Metadados
 
 - Esconder informações nos detalhes do arquivo, como nome do álbum, artista, descrição, etc.
 - Método básico e pouco seguro.
 
-## 3.3 Spammimic
+## 3.4 Spammimic
 - Permite esconder uma mensagem em um texto semelhante a um Spam ou chave PGP
 - Acesse o site em: [Spammimic](https://www.spammimic.com)
 
-## 3.4 Programas específicos
+## 3.5 Programas específicos
 
 - Utilizar softwares dedicados aumenta segurança e complexidade.  
 - Exemplos:
@@ -262,7 +267,7 @@ Exemplo: esconder `password=admin123` nos bits de uma imagem.
 
 - **Dica:** use buscas por palavras-chave ou nomes de programas em diretórios para detectar sinais de esteganografia.
 
-## 3.5 Sinais de uso de esteganografia
+## 3.6 Sinais de uso de esteganografia
 
 - Tamanhos incomuns de arquivos (ex.: imagens grandes podem indicar dados ocultos).  
 - Ruídos em áudios (pode revelar mensagens em espectrogramas).  
