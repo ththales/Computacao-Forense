@@ -65,6 +65,7 @@
   - [4.5 Busca por intervalos de tempo](#45-busca-por-intervalos-de-tempo)
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
   - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
+- [5. Engenharia Reversa](#5-engenharia-reversa)
 - [6. Lab Forense](#5-lab-forense)
 
 ---
