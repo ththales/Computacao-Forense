@@ -320,7 +320,7 @@ Além disso, é possível comparar imagem atual com a imagem real.
 ---
 
 # 5. Engenharia Reversa
-- Tambémm chamada descompilação, é o processo de extrair o máximo de informações do código-fonte de um programa compilado, seja através de strings, hexadecimais ou binários, mesmo sem obter total acesso ao código original.
+- Engenharia reversa é o processo de extrair o máximo de informações possíveis do código-fonte como strings, hexadecimais ou binários de um programa compilado por meio de descompilação, mesmo sem obter total acesso ao código original.
 - Essa é uma prática extremamente recomendada pois auxilia na análise de possíveis malwares e funcionalidades ocultas ou maliciosas.
 - É necessário uma boa compreensão de linguagens como:
   - Assembly (x86/x64/ARM)
