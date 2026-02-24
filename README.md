@@ -321,6 +321,7 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 # 5. Engenharia Reversa
 - Engenharia reversa é o processo de extrair o máximo de informações possíveis do código-fonte como strings, hexadecimais ou binários de um programa compilado por meio de descompilação, mesmo sem obter total acesso ao código original.
+- A ideia aqui não é recriar o código original, mas analisar comportamentos e intenções por trás.
 - Essa é uma prática extremamente recomendada pois auxilia na análise de possíveis malwares e funcionalidades ocultas ou maliciosas.
 - É necessário uma boa compreensão de linguagens como:
   - Assembly (x86/x64/ARM)
