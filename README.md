@@ -1,4 +1,4 @@
-# Computação Forense
+# Guia de Computação Forense
 
 # Sumário
 
