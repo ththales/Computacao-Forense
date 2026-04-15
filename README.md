@@ -337,6 +337,37 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
-# 6. Lab Forense
+# 6. Artefatos de execução
+**Definição:** São evidências digitais que demonstram que um programa, script ou comando foi executado em um sistema operacional  
+
+## 6.1 Prefetch (.pf)
+- Serve pra provar execução de programas
+- Ele informa:
+  - Nome do executável
+  - Última execução
+  - Quantidade de execuções
+- Se existe Prefetch, então o programa rodou, mesmo que o executável tenha sido deletado
+- **Local:** ``C:\Windows\Prefetch``
+
+## 6.2 UserAssist (Registro)
+- Exibe quais programas foram executados via interface gráfica
+- Dados codificados em ROT13
+- Mostra interação real do usuário (cliques)
+- **Local:** ``HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist``
+
+## 6.3 Shimcache (AppCompatCache)
+- Exibe os programas que já existiram ou foram executados
+- Não garante execução sempre, mas indica que o sistema “viu” o arquivo
+- **Local:** ``HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\AppCompatCache``
+
+## 6.4 Amcache.hve
+- Exibe o histórico detalhado de executáveis
+- Contém informações como hash, caminho, timestamps, etc.
+- Melhor que Shimcache para confirmar execução
+- **Local:** ``C:\Windows\AppCompat\Programs\Amcache.hve``
+
+---
+
+# X. Lab Forense
 Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
 - Link: https://github.com/ththales/LAB-FORENSE
