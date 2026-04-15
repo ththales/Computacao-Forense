@@ -66,7 +66,8 @@
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
   - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
-- [6. Lab Forense](#5-lab-forense)
+- [6. Artefatos de execução](#6-artefatos-de-execucao)
+- [X. Lab Forense](#5-lab-forense)
 
 ---
 
@@ -365,6 +366,10 @@ Além disso, é possível comparar imagem atual com a imagem real.
 - Contém informações como hash, caminho, timestamps, etc.
 - Melhor que Shimcache para confirmar execução
 - **Local:** ``C:\Windows\AppCompat\Programs\Amcache.hve``
+
+---
+
+
 
 ---
 
