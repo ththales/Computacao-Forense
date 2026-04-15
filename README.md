@@ -35,6 +35,7 @@
   - [4.7 TinEye](#47-tineye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
 - [6. Artefatos de execução](#6-artefatos-de-execução)
+- [7. Interação do usuário](#7-interação-do-usuário)
 - [X. Lab Forense](#5-lab-forense)
 
 ---
