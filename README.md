@@ -35,8 +35,22 @@
   - [4.7 TinEye](#47-tineye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
 - [6. Artefatos de execução](#6-artefatos-de-execução)
+  - [6.1 Prefetch (.pf)](#61-prefetch-pf)
+  - [6.2 UserAssist (Registro)](#62-userassist-registro)
+  - [6.3 Shimcache (AppCompatCache)](#63-shimcache-appcompatcache)
+  - [6.4 Amcache.hve](#64-amcachehve)
 - [7. Interação do usuário](#7-interação-do-usuário)
-- [X. Lab Forense](#5-lab-forense)
+  - [7.1 LNK Files](#71-lnk-files)
+  - [7.2 Jump Lists](#72-jump-lists)
+  - [7.3 Shellbags](#73-shellbags)
+- [8. Logs do Windows](#8-logs-do-windows)
+  - [8.1 Principais Event IDs](#81-principais-event-ids)
+- [9. NTFS](#9-ntfs)
+  - [9.1 $MFT](#91-mft)
+  - [9.2 ADS](#92-ads)
+  - [9.3 $Recycle Bin](#93-recycle-bin)
+- [10. Navegação Web](#10-navegação-web)
+- [11. Lab Forense](#11-lab-forense)
 
 ---
 
@@ -374,18 +388,22 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
-# 9. New Technology File System (NTFS)
+# 9. NTFS
+- New Technology File System
 - **Definição:** É o sistema de arquivos padrão do Windwos que registra metadados cruciais como **datas de criação, modificação, acesso** de arquivos, mesmo após apagados
 
-## 9.1 $MFT (Master File Table)
+## 9.1 MFT
+- Master File Table
 - Contém todos os arquivos e timestamps
 - **Timestamps:** Created, Modified, Accessed, Entry Modified
 
-## 9.2 ADS (Alternate Data Streams)
+## 9.2 ADS
+- Alternate Data Streams
 - Permite esconder dados dentro de arquivos
 - **Ex:** arquivo.txt:hidden.exe
 
-## 9.3 $Recycle Bin (Lixeira)
+## 9.3 $Recycle Bin
+- Lixeira
 - **$R:** arquivo real
 - **$I:** metadados
 - **Importante:** Arquivos deletados "permanentemente" pode ser recuperados se não foi sobrescrito na trilha do HD
