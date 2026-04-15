@@ -356,10 +356,52 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
+# 8. Logs do Windows
+- **Definição:** São registros detalhados de atividades do sistema, aplicativos e segurança, essenciais para investigações
+- Armazenam **"quem, o quê, quando e onde"** em violações, acessos não autorizados ou falhas
 
+## 8.1 Principais Event IDs
+- Logon / Logoff
+  - **4624:** Login bem-sucedido
+  - **4625:** Falha de login
+  - **4634:** Logoff
+
+- Execução de processos
+  - **4688:** Processo criado
+
+- Limpeza de logs
+  - **1102:** Log apagado
 
 ---
 
-# X. Lab Forense
+# 9. New Technology File System (NTFS)
+- **Definição:** É o sistema de arquivos padrão do Windwos que registra metadados cruciais como **datas de criação, modificação, acesso** de arquivos, mesmo após apagados
+
+## 9.1 $MFT (Master File Table)
+- Contém todos os arquivos e timestamps
+- **Timestamps:** Created, Modified, Accessed, Entry Modified
+
+## 9.2 ADS (Alternate Data Streams)
+- Permite esconder dados dentro de arquivos
+- **Ex:** arquivo.txt:hidden.exe
+
+## 9.3 $Recycle Bin (Lixeira)
+- **$R:** arquivo real
+- **$I:** metadados
+- **Importante:** Arquivos deletados "permanentemente" pode ser recuperados se não foi sobrescrito na trilha do HD
+
+---
+
+## 10. Navegação Web
+- Baseado em SQLite pois a maioria dos navegadores modernos utilizam esse formato de banco de dados para armazenar localmente informações do usuário
+- **Principais arquivos:** History, Cookies, Downloads
+- Usando o modo normal tudo fica registrado
+- O modo anônimo reduz rastros, mas não elimina tudo completamente
+
+---
+
+# 11. Lab Forense
 Com o laboratório a seguir é possível treinar conceitos iniciais aprendidos nesse guia de Computação Forense, tudo de forma 100% prática.
 - Link: https://github.com/ththales/LAB-FORENSE
+
+---
