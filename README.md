@@ -66,7 +66,7 @@
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
   - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
-- [6. Artefatos de execução](#6-artefatos-de-execucao)
+- [6. Artefatos de execução](#6-artefatos-de-execução)
 - [X. Lab Forense](#5-lab-forense)
 
 ---
