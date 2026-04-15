@@ -4,35 +4,6 @@
 
 - [1. Ferramentas](#1-ferramentas)
   - [1.2 Softwares](#12-softwares)
-    - [QuickHash-GUI](#quickhash-gui)
-    - [AccessData FTK Imager](#accessdata-ftk-imager)
-    - [OSFMount](#osfmount)
-    - [WinDirStat](#windirstat)
-    - [Total Commander](#total-commander)
-    - [OSForensics](#osforensics)
-    - [WinAudit](#winaudit)
-    - [NirLauncher](#nirlauncher)
-    - [RegShot](#regshot)
-    - [Recuva](#recuva)
-    - [Disk Drill](#disk-drill)
-    - [Autopsy](#autopsy)
-    - [Cryptool1](#cryptool1)
-    - [DIE-engine](#die-engine)
-    - [hashID / hash-identifier](#hashid--hash-identifier)
-    - [OpenPuff](#openpuff)
-    - [QuickStego](#quickstego)
-    - [SilentEye](#silenteye)
-    - [MultiObfuscator](#multiobfuscator)
-    - [ExifTool](#exiftool)
-    - [Crunch](#crunch)
-    - [HashCat](#hashcat)
-    - [WordListCompiler](#wordlistcompiler)
-    - [PDF2TextPilot](#pdf2textpilot)
-    - [Cain & Abel](#cain--abel)
-    - [PasswareKit](#passwarekit)
-    - [Ophcrack](#ophcrack)
-    - [Emsisoft Emergency Kit](#emsisoft-emergency-kit)
-    - [Copiadora 666](#copiadora666)
   - [1.3 Ferramentas Online](#13-ferramentas-online)
     - [1.3.1 Hashes e Criptoanálise](#131-hashes-e-criptoanálise)
     - [1.3.2 Cifras e Criptografia](#132-cifras-e-criptografia)
@@ -61,7 +32,7 @@
   - [4.4 Busca avançada do Google](#44-busca-avançada-do-google)
   - [4.5 Busca por intervalos de tempo](#45-busca-por-intervalos-de-tempo)
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
-  - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-TinEye)
+  - [4.7 TinEye](#47-tineye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
 - [6. Artefatos de execução](#6-artefatos-de-execução)
 - [X. Lab Forense](#5-lab-forense)
@@ -309,8 +280,8 @@ Isso é útil para sabermos exatamente qual foi a primeira aparição de uma bus
 ## 4.6 Código fonte em publicações
 Após buscar uma imagem e encontrar um site, pode ser útil buscar no código fonte da página da imagem encontrada e procurar por "date" que é justamente o termo referente à data da imagem
 
-## 4.7 Ferramenta de busca — TinEye
-Dada uma imagem, o site permite fazer uma busca e escavar toda a web, verificar e rastrear imagens online.
+## 4.7 TinEye
+É uma ferramenta de busca que, dada uma imagem, o site permite fazer uma busca e escavar toda a web, verificar e rastrear imagens online.
 Além disso, é possível comparar imagem atual com a imagem real.
 - Link: https://tineye.com
 
