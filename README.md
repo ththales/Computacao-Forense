@@ -336,6 +336,25 @@ Além disso, é possível comparar imagem atual com a imagem real.
 
 ---
 
+# 7. Interação do usuário
+## 7.1 LNK Files
+- São atalhos que mostram:
+  - Arquivo acessado
+  - Caminho original
+  - Data de acesso
+- **Local:** ``Desktop, Recent, AutomaticDestinations``
+- Mesmo que o arquivo tenha sido apagado, um LNK pode provar que havia algo ali
+
+## 7.2 Jump Lists
+- Exibe os arquivos recentes usados por aplicações
+- **Local:** ``%AppData%\Microsoft\Windows\Recent\AutomaticDestinations``
+
+## 7.3 Shellbags
+- Exibe pastas e diretórios acessados, mesmo aqueles que já foram removidos
+- **Local:** ``HKEY_CURRENT_USER\Software\Microsoft\Windows\Shell\BagMRU`` ou ``C:\Users\<Nome do Usuário>\NTUSER.DAT``
+
+---
+
 
 
 ---
