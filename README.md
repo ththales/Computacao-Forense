@@ -392,7 +392,7 @@ Além disso, é possível comparar imagem atual com a imagem real.
 - New Technology File System
 - **Definição:** É o sistema de arquivos padrão do Windwos que registra metadados cruciais como **datas de criação, modificação, acesso** de arquivos, mesmo após apagados
 
-## 9.1 MFT
+## 9.1 $MFT
 - Master File Table
 - Contém todos os arquivos e timestamps
 - **Timestamps:** Created, Modified, Accessed, Entry Modified
