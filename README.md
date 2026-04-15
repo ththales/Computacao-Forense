@@ -44,19 +44,16 @@
     - [1.3.8 Utilitários Gerais](#138-utilitários-gerais)
 - [2. Criptoanálise](#2-criptoanálise)
   - [2.1 Tabela ASCII](#21-tabela-ascii)
-    - [Binário → ASCII](#binário-→-ascii)
-    - [Octal → ASCII](#octal-→-ascii)
-    - [Hexadecimal → ASCII](#hexadecimal-→-ascii)
   - [2.2 Cifras de César e Vigenere](#22-cifras-de-césar-e-vigenere)
   - [2.3 Criptografias inquebráveis](#23-criptografias-inquebráveis)
     - [2.3.1 Bruteforce, Dicionários e Rainbow Tables](#231-bruteforce-dicionários-e-rainbow-tables)
 - [3. Esteganografia](#3-esteganografia)
   - [3.1 Texto em imagem simples](#31-texto-em-imagem-simples)
   - [3.2 Alterar o tipo de extensão do arquivo](#32-alterar-o-tipo-de-extensão-do-arquivo)
-  - [3.3 Metadados](#32-metadados)
-  - [3.4 Spammimic](#spammimic)
-  - [3.5 Programas específicos](#33-programas-específicos)
-  - [3.6 Sinais de uso de esteganografia](#34-sinais-de-uso-de-esteganografia)
+  - [3.3 Metadados](#33-metadados)
+  - [3.4 Spammimic](#34-spammimic)
+  - [3.5 Programas específicos](#35-programas-específicos)
+  - [3.6 Sinais de uso de esteganografia](#36-sinais-de-uso-de-esteganografia)
 - [4. Busca reversa](#4-busca-reversa)
   - [4.1 Busca por imagem](#41-busca-por-imagem)
   - [4.2 Busca ao pé da letra](#42-busca-ao-pé-da-letra)
@@ -64,7 +61,7 @@
   - [4.4 Busca avançada do Google](#44-busca-avançada-do-google)
   - [4.5 Busca por intervalos de tempo](#45-busca-por-intervalos-de-tempo)
   - [4.6 Código fonte em publicações](#46-código-fonte-em-publicações)
-  - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-tineye)
+  - [4.7 Ferramenta de busca — TinEye](#47-ferramenta-de-busca-—-TinEye)
 - [5. Engenharia Reversa](#5-engenharia-reversa)
 - [6. Artefatos de execução](#6-artefatos-de-execução)
 - [X. Lab Forense](#5-lab-forense)
@@ -312,8 +309,7 @@ Isso é útil para sabermos exatamente qual foi a primeira aparição de uma bus
 ## 4.6 Código fonte em publicações
 Após buscar uma imagem e encontrar um site, pode ser útil buscar no código fonte da página da imagem encontrada e procurar por "date" que é justamente o termo referente à data da imagem
 
-## 4.7 Ferramenta de busca
-### TinEye
+## 4.7 Ferramenta de busca — TinEye
 Dada uma imagem, o site permite fazer uma busca e escavar toda a web, verificar e rastrear imagens online.
 Além disso, é possível comparar imagem atual com a imagem real.
 - Link: https://tineye.com
