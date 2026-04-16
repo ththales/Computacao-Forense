@@ -407,7 +407,7 @@ Além disso, é possível comparar imagem atual com a imagem real.
 - Lixeira
 - **$R:** arquivo real
 - **$I:** metadados
-- **Importante:** Arquivos deletados "permanentemente" pode ser recuperados se não foi sobrescrito na trilha do HD
+- **Importante:** Arquivos deletados "permanentemente" pode ser recuperados se nada foi sobrescrito no seu espaço na trilha do HD
 
 ---
 
