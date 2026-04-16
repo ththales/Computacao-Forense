@@ -373,7 +373,7 @@ Além disso, é possível comparar imagem atual com a imagem real.
 # 8. Logs do Windows
 - **Definição:** São registros detalhados de atividades do sistema, aplicativos e segurança, essenciais para investigações
 - Armazenam **"quem, o quê, quando e onde"** em violações, acessos não autorizados ou falhas
-- Podem ser visualizados em: **Win + R -> ``eventvwr.msc``**
+- Podem ser visualizados em: **Win + R → ``eventvwr.msc``**
 
 ## 8.1 Principais Event IDs
 - Logon / Logoff
